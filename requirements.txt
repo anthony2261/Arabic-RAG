@@ -1,0 +1,12 @@
+wikiextractor==3.0.6
+sentence-transformers>2.2.0
+ipywidgets==8.1.1
+tqdm==4.66.1
+aiohttp==3.8.6
+huggingface-hub==0.17.3
+farm-haystack[inference]
+ipywidgets==8.1.1
+plotly==5.18.0
+lancedb==0.3.2
+bitsandbytes==0.41.1
+gradio_rich_textbox==0.2.0
